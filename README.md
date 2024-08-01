@@ -42,7 +42,7 @@ Output:
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will return a string that describes an error that is meaningful to the user.
 
     * Situations that will return an error:
-        * If there are __too many problems__ supplied to the function. The limit is five, anything more will return: ``'Error: Too many problems.'``
+        * If there are __too many problems__ supplied to the function. The limit is five, anything more will return: ```'Error: Too many problems.'```
 
         * The appropriate operators the function will accept are addition and subtraction. Multiplication and division will return an error. Other operators not mentioned in this bullet point will not need to be tested. The error returned will be: ``"Error: Operator must be '+' or '-'."``
 
