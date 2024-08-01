@@ -1,4 +1,3 @@
-```markdown
 # Arithmetic Formatter: Detailed Code Explanation
 
 ## Overview
