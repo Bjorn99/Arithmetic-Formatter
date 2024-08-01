@@ -41,7 +41,7 @@ for problem in problems:
 ```python
 parts = problem.split()
 ```
-- Splits the problem string into its components based on whitespace (e.g., "32 + 698" becomes `['12', '+', '608']`).
+- Splits the problem string into its components based on whitespace (e.g., "12 + 608" becomes `['12', '+', '608']`).
 
 ## Validation of Problem Format
 ```python
